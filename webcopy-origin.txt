@@ -1,0 +1,204 @@
+Uri: https://twowords.info/registration.php
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\registration.php.html
+Content Type: text/html
+
+Uri: https://twowords.info/img/favicon.ico
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400,600,700&subset=cyrillic,cyrillic-ext
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\css.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/css/all.css
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\releases\v5.8.1\css\all.css
+Content Type: text/css
+
+Uri: https://twowords.info/css/bootstrap.min.css
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://twowords.info/css/main.min.css
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\css\main.min.css
+Content Type: text/css
+
+Uri: https://twowords.info/css/loader.css
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\css\loader.css
+Content Type: text/css
+
+Uri: https://twowords.info/policy.html
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\policy.html
+Content Type: text/html
+
+Uri: https://twowords.info/
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\index.htm
+Content Type: text/html
+
+Uri: https://twowords.info/agreement.html
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\agreement.html
+Content Type: text/html
+
+Uri: https://twowords.info/build/css/intlTelInput.min.css
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\build\css\intlTelInput.min.css
+Content Type: text/css
+
+Uri: https://twowords.info/js/hls.js
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\js\hls.js
+Content Type: application/javascript
+
+Uri: https://twowords.info/img/reg-footer-item-one.png
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\img\reg-footer-item-one.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/reg-footer-item-two.png
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\img\reg-footer-item-two.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/reg-footer-item-three.png
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\img\reg-footer-item-three.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/reg-footer-item-four.png
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\img\reg-footer-item-four.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/reg-footer-item-five.png
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\img\reg-footer-item-five.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/main-logo.png
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\img\main-logo.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/main-footer-item-one.png
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\img\main-footer-item-one.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/main-footer-item-two.png
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\img\main-footer-item-two.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/main-footer-item-three.png
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\img\main-footer-item-three.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/main-footer-item-four.png
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\img\main-footer-item-four.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/main-footer-item-five.png
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\img\main-footer-item-five.png
+Content Type: image/png
+
+Uri: https://twowords.info/js/jquery.min.js
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://twowords.info/js/bootstrap.min.js
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://twowords.info/js/main.js
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\js\main.js
+Content Type: application/javascript
+
+Uri: https://twowords.info/build/js/intlTelInput-jquery.min.js
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\build\js\intlTelInput-jquery.min.js
+Content Type: application/javascript
+
+Uri: https://twowords.info/build/js/intlTelInput.min.js
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\build\js\intlTelInput.min.js
+Content Type: application/javascript
+
+Uri: https://twowords.info/img/ibg.jpg
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\img\ibg.jpg
+Content Type: image/jpeg
+
+Uri: https://twowords.info/img/main-form-right-arrow.png
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\img\main-form-right-arrow.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/main-form-left-arrow.png
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\img\main-form-left-arrow.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/main-form-button.png
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\img\main-form-button.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/close-icon.png
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\img\close-icon.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/rbg.jpg
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\img\rbg.jpg
+Content Type: image/jpeg
+
+Uri: https://twowords.info/img/step-one.png
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\img\step-one.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/step-two.png
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\img\step-two.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/step-three.png
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\img\step-three.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/step-four.png
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\img\step-four.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/done-reviews-bg.png
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\img\done-reviews-bg.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/main-two-form-arrow.png
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\img\main-two-form-arrow.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/how-bg.png
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\img\how-bg.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/form-bg.jpg
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\img\form-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.onesignal.com/sdks/OneSignalSDK.js
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\sdks\OneSignalSDK.js
+Content Type: application/javascript
+
+Uri: https://www.youtube.com/iframe_api
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\iframe_api
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/ns.html?id=GTM-TPL6CP3
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\ns.html
+Content Type: text/html
+
+Uri: https://web.redhelper.ru/service/main.js?c=odelo
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\service\main.js
+Content Type: application/x-javascript
+
+Uri: https://twowords.info/css/bootstrap-grid.css
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\css\bootstrap-grid.css
+Content Type: text/css
+
+Uri: https://twowords.info/css/main.scss
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\css\main.scss
+Content Type: application/octet-stream
+
+Uri: https://twowords.info/css/bootstrap.css
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://twowords.info/build/img/flags.png
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\build\img\flags.png
+Content Type: image/png
+
+Uri: https://twowords.info/build/img/flags@2x.png
+File Name: C:\Users\tor96\OneDrive\Документы\Downloaded Web Sites\twowords.info\build\img\flags@2x.png
+Content Type: image/png
+
