@@ -6,7 +6,7 @@ $(function() {
     });
 });
 
-$(".closing, .modal__close a").click(function(){
+$(".closing, .modal__close a").click(function() {
     $(".modal_wr").removeClass("active");
     $("body").removeClass("no_scroll");
 });
@@ -201,7 +201,7 @@ $(function() {
             for (e = 0; e < r; e++) f = i(u), o = f[0], s = f[1], $(".done_block__reviews_items .review").append(o), u[e] = s;
         else h = n(0, c), f = i(u), o = f[0], s = f[1], $(".done_block__reviews_items .review")[h].outerHTML = $(o).html(), u[h] = s;
         l = n(3, 8) * 1e3;
-        if($('.done_block__reviews_items .review li').length > 2){
+        if ($('.done_block__reviews_items .review li').length > 2) {
             $(".done_block__reviews_items .review li").first().remove();
         }
         setTimeout(function() {
@@ -277,7 +277,7 @@ $(function() {
         }]
     })
 });
-!function(n) {
+! function(n) {
     "use strict";
     "function" == typeof define && define.amd ? define(["jquery"], n) : "undefined" != typeof exports ? module.exports = n(require("jquery")) : n(jQuery)
 }(function(n) {
