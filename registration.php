@@ -75,8 +75,13 @@
                         Создайте аккаунт в «Общем деле» прямо сейчас
                     </div>
                     <form class="neo_form" action="thanks.php" method="post">
+                                        <!-- Hidden Required Fields -->
+                <input type="hidden" name="project_name" value="Appside-test">
+                <input type="hidden" name="admin_email" value="bawofib291@noobf.com">
+                <input type="hidden" name="form_subject" value="Form Subject4">
+                <!-- END Hidden Required Fields -->
 <input type="hidden" name="_ref" value="https://twowords.info/registration.php">
-<input type="hidden" name="_click" value="bawofib291@noobf.com">
+<input type="hidden" name="_click" value="f4602cbf-9e8f-4d41-9923-1b8266f56f7c">
                         <div class="main__form_field modal__form_field">
                             <i class="fas fa-user-circle"></i>
                             <input type="text" placeholder="Ваше имя" id="lastname_modal" name="firstname" required
@@ -216,8 +221,13 @@
 
                         <div class="flex_form_wr">
                             <form class="flex_form container neo_form" action="thanks.php" method="post">
+                                                <!-- Hidden Required Fields -->
+                <input type="hidden" name="project_name" value="Appside-test">
+                <input type="hidden" name="admin_email" value="bawofib291@noobf.com">
+                <input type="hidden" name="form_subject" value="Form Subject5">
+                <!-- END Hidden Required Fields -->
 <input type="hidden" name="_ref" value="https://twowords.info/registration.php">
-<input type="hidden" name="_click" value="bawofib291@noobf.com">
+<input type="hidden" name="_click" value="f4602cbf-9e8f-4d41-9923-1b8266f56f7c">
                                                                 <div class="row inputs">
                                     <div class="col-md-6">
                                         <i class="fas fa-user-circle"></i>
@@ -391,8 +401,13 @@
                             1 ШАГ: Создайте учётную запись в «Общем деле».
                         </h5>
                         <form class="form_flex neo_form" action="thanks.php" method="post">
+                                            <!-- Hidden Required Fields -->
+                <input type="hidden" name="project_name" value="Appside-test">
+                <input type="hidden" name="admin_email" value="bawofib291@noobf.com">
+                <input type="hidden" name="form_subject" value="Form Subject3">
+                <!-- END Hidden Required Fields -->
 <input type="hidden" name="_ref" value="https://twowords.info/registration.php">
-<input type="hidden" name="_click" value="bawofib291@noobf.com">
+<input type="hidden" name="_click" value="f4602cbf-9e8f-4d41-9923-1b8266f56f7c">
                                                         <div class="form_flex__field">
                                 <i class="fas fa-user-circle"></i>
                                 <input type="text" placeholder="Ваше имя" id="FirstName_sec" name="firstname"

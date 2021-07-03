@@ -81,9 +81,13 @@
                         Пройдите регистрацию и получите бесплатный доступ к программе!
                     </div>
                     <form action="registration.php" method="post">
-                        
+                        <!-- Hidden Required Fields -->
+                        <input type="hidden" name="project_name" value="Appside-test">
+                        <input type="hidden" name="admin_email" value="bawofib291@noobf.com">
+                        <input type="hidden" name="form_subject" value="Form Subject2">
+                        <!-- END Hidden Required Fields -->
                         <input type="hidden" name="_ref" value="https://twowords.info/">
-                        <input type="hidden" name="_click" value="bawofib291@noobf.com">
+                        <input type="hidden" name="_click" value="811e45e5-10e8-44f3-b332-0e24989eb270">
                         <div class="main__form_field modal__form_field">
                             <i class="fas fa-user-circle"></i>
                             <input type="text" placeholder="Ваше имя" id="name_modal" name="username">
@@ -201,8 +205,13 @@
 
         <div class="flex_form_wr">
             <form class="flex_form container" action="registration.php" method="post">
+                <!-- Hidden Required Fields -->
+                <input type="hidden" name="project_name" value="Appside-test">
+                <input type="hidden" name="admin_email" value="bawofib291@noobf.com">
+                <input type="hidden" name="form_subject" value="Form Subject1">
+                <!-- END Hidden Required Fields -->
                 <input type="hidden" name="_ref" value="https://twowords.info/">
-                <input type="hidden" name="_click" value="bawofib291@noobf.com">
+                <input type="hidden" name="_click" value="811e45e5-10e8-44f3-b332-0e24989eb270">
                 <div class="row inputs">
                     <div class="col-md-6">
                         <i class="fas fa-user-circle"></i>
@@ -267,7 +276,8 @@
             });
         }
     </script>
-    <script src="js/jquery.min.js"></script>
+    <!-- <script src="js/jquery.min.js"></script> -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/main.js"></script>
     <script>
