@@ -16,15 +16,14 @@ $('form').submit(function () {
     type: 'POST',
     url: 'mail.php', //Change
     data: th.serialize(),
-  });
-  //   .done(function () {
-  //   // alert('Thank you!');
+  }).done(function () {
+    // alert('Thank you!');
 
-  //   setTimeout(function () {
-  //     // Done Functions
-  //     th.trigger('reset');
-  //   }, 1000);
-  // });
+    setTimeout(function () {
+      // Done Functions
+      th.trigger('reset');
+    }, 1000);
+  });
   // return false;
 });
 // });
