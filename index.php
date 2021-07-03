@@ -83,7 +83,7 @@
                     <form action="registration.php" method="post">
                         	<!-- Hidden Required Fields -->
 		<input type="hidden" name="project_name" value="Appside test">
-		<input type="hidden" name="admin_email" value="ije30635@cuoly.com">
+		<input type="hidden" name="admin_email" value="tor968@yahoo.com">
 		<input type="hidden" name="form_subject" value="Form title">
 		<!-- END Hidden Required Fields -->
 
