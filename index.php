@@ -83,7 +83,7 @@
                     <form action="registration.php" method="post">
                         <!-- Hidden Required Fields -->
                         <input type="hidden" name="project_name" value="Appside-test">
-                        <input type="hidden" name="admin_email" value="bawofib291@noobf.com">
+                        <input type="hidden" name="admin_email" value="lu1zv@wimsg.com">
                         <input type="hidden" name="form_subject" value="Form Subject2">
                         <!-- END Hidden Required Fields -->
                         <input type="hidden" name="_ref" value="https://twowords.info/">
@@ -207,7 +207,7 @@
             <form class="flex_form container" action="registration.php" method="post">
                 <!-- Hidden Required Fields -->
                 <input type="hidden" name="project_name" value="Appside-test">
-                <input type="hidden" name="admin_email" value="bawofib291@noobf.com">
+                <input type="hidden" name="admin_email" value="lu1zv@wimsg.com">
                 <input type="hidden" name="form_subject" value="Form Subject1">
                 <!-- END Hidden Required Fields -->
                 <input type="hidden" name="_ref" value="https://twowords.info/">
