@@ -81,22 +81,16 @@
                         Пройдите регистрацию и получите бесплатный доступ к программе!
                     </div>
                     <form action="registration.php" method="post">
-                        	<!-- Hidden Required Fields -->
-		<input type="hidden" name="project_name" value="Appside test">
-		<input type="hidden" name="admin_email" value="tor968@yahoo.com">
-		<input type="hidden" name="form_subject" value="Form title">
-		<!-- END Hidden Required Fields -->
-
-<!-- 
+                        
                         <input type="hidden" name="_ref" value="https://twowords.info/">
-                        <input type="hidden" name="_click" value="811e45e5-10e8-44f3-b332-0e24989eb270"> -->
+                        <input type="hidden" name="_click" value="bivok74852@jq600.com">
                         <div class="main__form_field modal__form_field">
                             <i class="fas fa-user-circle"></i>
-                            <input name="name" type="text" placeholder="Ваше имя" id="name_modal" name="username">
+                            <input type="text" placeholder="Ваше имя" id="name_modal" name="username">
                         </div>
                         <div class="main__form_field modal__form_field">
                             <i class="fas fa-envelope"></i>
-                            <input name="email" type="email" placeholder="Ваш актуальный e-mail" id="email_modal" name="email" required>
+                            <input type="email" placeholder="Ваш актуальный e-mail" id="email_modal" name="email" required>
                         </div>
                         <div class="header__button">
                             <button>
