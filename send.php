@@ -31,7 +31,7 @@ try {
     $mail->Debugoutput = function($str, $level) {$GLOBALS['status'][] = $str;};
 
     // Настройки вашей почты
-    $mail->Host       = 'smtp.gmail.com’'; // SMTP сервера вашей почты
+    $mail->Host       = 'smtp-relay.gmail.com’'; // SMTP сервера вашей почты
     $mail->Username   = 'spamtest227'; // Логин на почте
     $mail->Password   = 'Q123123Q'; // Пароль на почте
     $mail->SMTPSecure = 'ssl';
