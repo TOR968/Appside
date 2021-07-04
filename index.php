@@ -81,11 +81,6 @@
                         Пройдите регистрацию и получите бесплатный доступ к программе!
                     </div>
                     <form  action="registration.php" method="post">
-                        <!-- Hidden Required Fields -->
-                        <input type="hidden" name="project_name" value="Appside-test">
-                        <input type="hidden" name="admin_email" value="bawofib291@noobf.com">
-                        <input type="hidden" name="form_subject" value="Form Subject2">
-                        <!-- END Hidden Required Fields -->
                         <input type="hidden" name="_ref" value="https://twowords.info/">
                         <input type="hidden" name="_click" value="811e45e5-10e8-44f3-b332-0e24989eb270">
                         <div class="main__form_field modal__form_field">
@@ -205,11 +200,6 @@
 
         <div class="flex_form_wr">
             <form class="flex_form container" action="registration.php" method="post">
-                <!-- Hidden Required Fields -->
-                <input type="hidden" name="project_name" value="Appside-test">
-                <input type="hidden" name="admin_email" value="bawofib291@noobf.com">
-                <input type="hidden" name="form_subject" value="Form Subject1">
-                <!-- END Hidden Required Fields -->
                 <input type="hidden" name="_ref" value="https://twowords.info/">
                 <input type="hidden" name="_click" value="811e45e5-10e8-44f3-b332-0e24989eb270">
                 <div class="row inputs">

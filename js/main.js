@@ -1,24 +1,3 @@
-$(document).ready(function () {
-  $('form').submit(function () {
-    //Change
-    var th = $(this);
-    return $.ajax({
-      type: 'POST',
-      url: 'mail.php', //Change
-      data: th.serialize(),
-    }).then(console.log);
-    //     .done(function () {
-    //   // alert('Thank you!');
-
-    //   setTimeout(function () {
-    //     // Done Functions
-    //     th.trigger('reset');
-    //   }, 1000);
-    // });
-    // return false;
-  });
-});
-
 $(function () {
   $.exitIntent('enable');
   $(document).bind('exitintent', function () {
