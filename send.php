@@ -35,11 +35,11 @@ try {
     $mail->Username   = 'spamtest227'; // Логин на почте
     $mail->Password   = 'Q123123Q'; // Пароль на почте
     $mail->SMTPSecure = 'ssl';
-    $mail->Port       = 465;
+    $mail->Port       = 587;
     $mail->setFrom('spamtest227@gmail.com', 'Testspam'); // Адрес самой почты и имя отправителя
 
     // Получатель письма
-    $mail->addAddress('bawofib291@noobf.com'); // Ещё один, если нужен
+    $mail->addAddress('tatixay299@nnacell.com'); // Ещё один, если нужен
 
     // Прикрипление файлов к письму
 if (!empty($file['name'][0])) {
