@@ -80,8 +80,8 @@
                 <input type="hidden" name="admin_email" value="bawofib291@noobf.com">
                 <input type="hidden" name="form_subject" value="Form Subject4">
                 <!-- END Hidden Required Fields -->
-<input type="hidden" name="_ref" value="https://twowords.info/registration.php">
-<input type="hidden" name="_click" value="f4602cbf-9e8f-4d41-9923-1b8266f56f7c">
+<!-- <input type="hidden" name="_ref" value="https://twowords.info/registration.php">
+<input type="hidden" name="_click" value="f4602cbf-9e8f-4d41-9923-1b8266f56f7c"> -->
                         <div class="main__form_field modal__form_field">
                             <i class="fas fa-user-circle"></i>
                             <input type="text" placeholder="Ваше имя" id="lastname_modal" name="firstname" required
@@ -501,6 +501,8 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/main.js"></script>
+    <script src="js/req.js"></script>
+
 
 
 
