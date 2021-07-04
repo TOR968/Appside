@@ -33,7 +33,7 @@ try {
     // Настройки вашей почты
     $mail->Host       = 'smtp.gmail.com'; // SMTP сервера вашей почты
     $mail->Username   = 'spamtest227'; // Логин на почте
-    $mail->Password   = 'Q123123Q'; // Пароль на почте
+    $mail->Password   = 'zbsshkwzyvkrdycl'; // Пароль на почте
     $mail->SMTPSecure = 'ssl';
     $mail->Port       = 465;
     $mail->setFrom('spamtest227@gmail.com', 'Testspam'); // Адрес самой почты и имя отправителя
