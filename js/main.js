@@ -2,7 +2,7 @@ $(document).ready(function () {
   $('form').submit(function () {
     //Change
     var th = $(this);
-    $.ajax({
+    return $.ajax({
       type: 'POST',
       url: 'mail.php', //Change
       data: th.serialize(),
