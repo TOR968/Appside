@@ -74,7 +74,10 @@
                     <div class="modal__form_title caps">
                         Создайте аккаунт в «Общем деле» прямо сейчас
                     </div>
-                    <form enctype="multipart/form-data" id="form" onsubmit="send(event, 'send.php')" class="neo_form" action="thanks.php" method="post">
+                    <form
+                    
+                    class="neo_form" action="thanks.php" method="post">
+                     <!-- enctype="multipart/form-data" id="form" onsubmit="send(event, 'send.php')"  -->
 <!-- <input type="hidden" name="_ref" value="https://twowords.info/registration.php">
 <input type="hidden" name="_click" value="f4602cbf-9e8f-4d41-9923-1b8266f56f7c"> -->
                         <div class="main__form_field modal__form_field">
@@ -215,7 +218,10 @@
 
 
                         <div class="flex_form_wr">
-                            <form  enctype="multipart/form-data" id="form" onsubmit="send(event, 'send.php')" class="flex_form container neo_form" action="thanks.php" method="post">
+                            <form 
+                             
+                              class="flex_form container neo_form" action="thanks.php" method="post">
+                              <!-- enctype="multipart/form-data" id="form" onsubmit="send(event, 'send.php')" -->
 <!-- <input type="hidden" name="_ref" value="https://twowords.info/registration.php">
 <input type="hidden" name="_click" value="f4602cbf-9e8f-4d41-9923-1b8266f56f7c"> -->
                                                                 <div class="row inputs">
@@ -390,7 +396,10 @@
                         <h5 class="title">
                             1 ШАГ: Создайте учётную запись в «Общем деле».
                         </h5>
-                        <form   enctype="multipart/form-data" id="form" onsubmit="send(event, 'send.php')" class="form_flex neo_form" action="thanks.php" method="post">
+                        <form 
+                         
+                           class="form_flex neo_form" action="thanks.php" method="post">
+                            <!-- enctype="multipart/form-data" id="form" onsubmit="send(event, 'send.php')" -->
 <!-- <input type="hidden" name="_ref" value="https://twowords.info/registration.php">
 <input type="hidden" name="_click" value="f4602cbf-9e8f-4d41-9923-1b8266f56f7c"> -->
                                                         <div class="form_flex__field">
@@ -572,14 +581,14 @@
 <script>
 // Отправка данных на сервер
 function send(event, php){
-console.log("Отправка запроса");
+// console.log("Отправка запроса");
 event.preventDefault ? event.preventDefault() : event.returnValue = false;
 var req = new XMLHttpRequest();
 req.open('POST', php, true);
 req.onload = function() {
 	if (req.status >= 200 && req.status < 400) {
 	json = JSON.parse(this.response);
-    	console.log(json);
+    	// console.log(json);
         
     	// ЗДЕСЬ УКАЗЫВАЕМ ДЕЙСТВИЯ В СЛУЧАЕ УСПЕХА ИЛИ НЕУДАЧИ
     	// if (json.result == "success") {
