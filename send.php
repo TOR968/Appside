@@ -33,13 +33,13 @@ try {
     // Настройки вашей почты
     $mail->Host       = 'smtp.gmail.com'; // SMTP сервера вашей почты
     $mail->Username   = 'spamtest227'; // Логин на почте
-    $mail->Password   = 'zbsshkwzyvkrdycl'; // Пароль на почте
+    $mail->Password   = 'zbsshkwzyvkrdycl';
     $mail->SMTPSecure = 'ssl';
     $mail->Port       = 465;
     $mail->setFrom('spamtest227@gmail.com', 'Testspam'); // Адрес самой почты и имя отправителя
 
     // Получатель письма
-    $mail->addAddress('tatixay299@nnacell.com'); // Ещё один, если нужен
+    $mail->addAddress('kazakrecone@gmail.com'); // Ещё один, если нужен
 
     // Прикрипление файлов к письму
 if (!empty($file['name'][0])) {
