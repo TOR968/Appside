@@ -15,7 +15,7 @@ $file = $_FILES['myfile'];
 $title = "Appside test";
 $body = "
 <h2>Новое письмо</h2>
-<b>Ваше имя:</b> $firstname<br>
+<b>Ваше имя:</b> $name<br>
 <b>Фамилия:</b> $lastname<br>
 <b>Почта:</b> $email<br><br>
 <b>Сообщение:</b><br>$text
@@ -31,7 +31,7 @@ try {
     $mail->Debugoutput = function($str, $level) {$GLOBALS['status'][] = $str;};
 
     // Настройки вашей почты
-    $mail->Host       = 'smtp-relay.gmail.com’'; // SMTP сервера вашей почты
+    $mail->Host       = 'smtp.gmail.com’'; // SMTP сервера вашей почты
     $mail->Username   = 'spamtest227'; // Логин на почте
     $mail->Password   = 'Q123123Q'; // Пароль на почте
     $mail->SMTPSecure = 'ssl';
