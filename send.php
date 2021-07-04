@@ -17,8 +17,8 @@ $body = "
 <h2>Новое письмо</h2>
 <b>Ваше имя:</b> $name<br>
 <b>Фамилия:</b> $lastname<br>
-<b>Почта:</b> $email<br><br>
-<b>Сообщение:</b><br>$text
+<b>Почта:</b> $email<br>
+<b>Номер телефона:</b> $text
 ";
 
 // Настройки PHPMailer
