@@ -306,7 +306,6 @@
         <div class="container">
             <h2>Как это всё работает</h2>
             <div class="how__player">
-                <!-- player('boLowLNkCl0', 'false', 'maxres'); -->
                 
             </div>
         </div>
@@ -391,8 +390,6 @@
                             1 ШАГ: Создайте учётную запись в «Общем деле».
                         </h5>
                         <form   enctype="multipart/form-data" id="form" onsubmit="send(event, 'send.php')" class="form_flex neo_form" >
-<!-- <input type="hidden" name="_ref" value="https://twowords.info/registration.php">
-<input type="hidden" name="_click" value="f4602cbf-9e8f-4d41-9923-1b8266f56f7c"> -->
                                                         <div class="form_flex__field">
                                 <i class="fas fa-user-circle"></i>
                                 <input type="text" placeholder="Ваше имя" id="FirstName_sec" name="firstname"
@@ -483,7 +480,6 @@
     }
     </script>
     <script src="js/jquery.min.js"></script>
-    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> -->
     <script src="js/bootstrap.min.js"></script>
     <script src="js/main.js"></script>
     <!-- <script src="js/req.js"></script> -->
@@ -570,6 +566,7 @@
     });
 </script>
 <script>
+
 // Отправка данных на сервер
 function send(event, php){
 // console.log("Отправка запроса");
@@ -582,17 +579,6 @@ req.onload = function() {
     setTimeout(function(){
       window.location.href = 'https://appside-test.herokuapp.com/thanks.php';
     }, 1000);
-    	// console.log(json);
-        
-    	// ЗДЕСЬ УКАЗЫВАЕМ ДЕЙСТВИЯ В СЛУЧАЕ УСПЕХА ИЛИ НЕУДАЧИ
-    	// if (json.result == "success") {
-    	// 	// Если сообщение отправленоF
-    	// 	// alert("Сообщение отправлено");
-    	// } else {
-    	// 	// Если произошла ошибка
-    	// 	// alert("Ошибка. Сообщение не отправлено");
-    	// }
-    // Если не удалось связаться с php файлом
     } else {alert("Ошибка сервера. Номер: "+req.status);}}; 
 
 // Если не удалось отправить запрос. Стоит блок на хостинге
