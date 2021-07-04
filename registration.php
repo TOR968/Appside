@@ -75,8 +75,8 @@
                         Создайте аккаунт в «Общем деле» прямо сейчас
                     </div>
                     <form enctype="multipart/form-data" id="form" onsubmit="send(event, 'send.php')" class="neo_form" action="thanks.php" method="post">
-<input type="hidden" name="_ref" value="https://twowords.info/registration.php">
-<input type="hidden" name="_click" value="f4602cbf-9e8f-4d41-9923-1b8266f56f7c">
+<!-- <input type="hidden" name="_ref" value="https://twowords.info/registration.php">
+<input type="hidden" name="_click" value="f4602cbf-9e8f-4d41-9923-1b8266f56f7c"> -->
                         <div class="main__form_field modal__form_field">
                             <i class="fas fa-user-circle"></i>
                             <input type="text" placeholder="Ваше имя" id="lastname_modal" name="firstname" required
@@ -216,8 +216,8 @@
 
                         <div class="flex_form_wr">
                             <form  enctype="multipart/form-data" id="form" onsubmit="send(event, 'send.php')" class="flex_form container neo_form" action="thanks.php" method="post">
-<input type="hidden" name="_ref" value="https://twowords.info/registration.php">
-<input type="hidden" name="_click" value="f4602cbf-9e8f-4d41-9923-1b8266f56f7c">
+<!-- <input type="hidden" name="_ref" value="https://twowords.info/registration.php">
+<input type="hidden" name="_click" value="f4602cbf-9e8f-4d41-9923-1b8266f56f7c"> -->
                                                                 <div class="row inputs">
                                     <div class="col-md-6">
                                         <i class="fas fa-user-circle"></i>
@@ -391,8 +391,8 @@
                             1 ШАГ: Создайте учётную запись в «Общем деле».
                         </h5>
                         <form   enctype="multipart/form-data" id="form" onsubmit="send(event, 'send.php')" class="form_flex neo_form" action="thanks.php" method="post">
-<input type="hidden" name="_ref" value="https://twowords.info/registration.php">
-<input type="hidden" name="_click" value="f4602cbf-9e8f-4d41-9923-1b8266f56f7c">
+<!-- <input type="hidden" name="_ref" value="https://twowords.info/registration.php">
+<input type="hidden" name="_click" value="f4602cbf-9e8f-4d41-9923-1b8266f56f7c"> -->
                                                         <div class="form_flex__field">
                                 <i class="fas fa-user-circle"></i>
                                 <input type="text" placeholder="Ваше имя" id="FirstName_sec" name="firstname"
@@ -583,7 +583,7 @@ req.onload = function() {
         
     	// ЗДЕСЬ УКАЗЫВАЕМ ДЕЙСТВИЯ В СЛУЧАЕ УСПЕХА ИЛИ НЕУДАЧИ
     	// if (json.result == "success") {
-    	// 	// Если сообщение отправлено
+    	// 	// Если сообщение отправленоF
     	// 	// alert("Сообщение отправлено");
     	// } else {
     	// 	// Если произошла ошибка
