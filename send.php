@@ -9,7 +9,7 @@ $name = $_POST['firstname'];
 $lastname = $_POST['lastname'];
 $email = $_POST['email'];
 $text = $_POST['phone_number'];
-$file = $_FILES['myfile'];
+// $file = $_FILES['myfile'];
 
 // Формирование самого письма
 $title = "Appside test";
@@ -41,19 +41,19 @@ try {
     // Получатель письма
     $mail->addAddress('tatixay299@nnacell.com'); // Ещё один, если нужен
 
-    // Прикрипление файлов к письму
-if (!empty($file['name'][0])) {
-    for ($ct = 0; $ct < count($file['tmp_name']); $ct++) {
-        $uploadfile = tempnam(sys_get_temp_dir(), sha1($file['name'][$ct]));
-        $filename = $file['name'][$ct];
-        if (move_uploaded_file($file['tmp_name'][$ct], $uploadfile)) {
-            $mail->addAttachment($uploadfile, $filename);
-            $rfile[] = "Файл $filename прикреплён";
-        } else {
-            $rfile[] = "Не удалось прикрепить файл $filename";
-        }
-    }   
-}
+//     // Прикрипление файлов к письму
+// if (!empty($file['name'][0])) {
+//     for ($ct = 0; $ct < count($file['tmp_name']); $ct++) {
+//         $uploadfile = tempnam(sys_get_temp_dir(), sha1($file['name'][$ct]));
+//         $filename = $file['name'][$ct];
+//         if (move_uploaded_file($file['tmp_name'][$ct], $uploadfile)) {
+//             $mail->addAttachment($uploadfile, $filename);
+//             $rfile[] = "Файл $filename прикреплён";
+//         } else {
+//             $rfile[] = "Не удалось прикрепить файл $filename";
+//         }
+//     }   
+// }
 // Отправка сообщения
 $mail->isHTML(true);
 $mail->Subject = $title;
@@ -69,4 +69,4 @@ else {$result = "error";}
 }
 
 // Отображение результата
-echo json_encode(["result" => $result, "resultfile" => $rfile, "status" => $status]);
+echo json_encode(["result" => $result, "status" => $status]);
