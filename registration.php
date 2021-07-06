@@ -94,7 +94,7 @@
                         <div class="main__form_field modal__form_field">
                             <div class="form-group">
                                 <div class="codeWrapper">
-                                    <input type="tel" pattern="[0-9]{5}[-][0-9]{7}[-][0-9]{1}"  maxlength="7" minlength="7" class="form-control js-phone"
+                                    <input type="tel" pattern="[0-9]{5}[-][0-9]{7}[-][0-9]{1}"  title="Не правильный формат" minlength="7" class="form-control js-phone"
                                         id="phone" name="phone_number" placeholder="Телефон" required>
                                 </div>
                             </div>
@@ -236,7 +236,7 @@
                                     </div>
                                     <div class="col-md-6">
                                         <div class="codeWrapper">
-                                            <input type="tel" pattern="[0-9]{5}[-][0-9]{7}[-][0-9]{1}"  maxlength="7" minlength="7"
+                                            <input type="tel" pattern="[0-9]{5}[-][0-9]{7}[-][0-9]{1}" title="Не правильный формат" minlength="7"
                                                 class="form-control js-phone" id="phone" name="phone_number"
                                                 placeholder="Телефон" required>
                                         </div>
@@ -406,7 +406,7 @@
                             </div>
                             <div class="form_flex__field">
                                 <div class="codeWrapper">
-                                    <input class="" name="text" type="tel" placeholder="Номер телефона" pattern="[0-9]{5}[-][0-9]{7}[-][0-9]{1}"  maxlength="7"
+                                    <input class="" name="text" type="tel" placeholder="Номер телефона" pattern="[0-9]{5}[-][0-9]{7}[-][0-9]{1}"  title="Не правильный формат"
                                         minlength="7" id="PhoneNumber_sec" name="phone_number" required>
                                 </div>
                             </div>
