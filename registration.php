@@ -75,8 +75,6 @@
                         Создайте аккаунт в «Общем деле» прямо сейчас
                     </div>
                     <form enctype="multipart/form-data" id="form" onsubmit="send(event, 'send.php')" class="neo_form" >
-<!-- <input type="hidden" name="_ref" value="https://twowords.info/registration.php">
-<input type="hidden" name="_click" value="f4602cbf-9e8f-4d41-9923-1b8266f56f7c"> -->
                         <div class="main__form_field modal__form_field">
                             <i class="fas fa-user-circle"></i>
                             <input type="text" placeholder="Ваше имя" id="lastname_modal" name="firstname" required
@@ -94,7 +92,7 @@
                         <div class="main__form_field modal__form_field">
                             <div class="form-group">
                                 <div class="codeWrapper">
-                                    <input type="tel" pattern="[0-9]{5}[-][0-9]{7}[-][0-9]{1}"  title="Цифры 0-9" minlength="7" class="form-control js-phone"
+                                    <input type="tel" pattern="[0-9]{10}" maxlength="10"  title="Цифры 0-9" minlength="7" class="form-control js-phone"
                                         id="phone" name="phone_number" placeholder="Телефон" required>
                                 </div>
                             </div>
@@ -216,8 +214,6 @@
 
                         <div class="flex_form_wr">
                             <form  enctype="multipart/form-data" id="form" onsubmit="send(event, 'send.php')" class="flex_form container neo_form" >
-<!-- <input type="hidden" name="_ref" value="https://twowords.info/registration.php">
-<input type="hidden" name="_click" value="f4602cbf-9e8f-4d41-9923-1b8266f56f7c"> -->
                                                                 <div class="row inputs">
                                     <div class="col-md-6">
                                         <i class="fas fa-user-circle"></i>
@@ -236,7 +232,7 @@
                                     </div>
                                     <div class="col-md-6">
                                         <div class="codeWrapper">
-                                            <input type="tel" pattern="[0-9]{5}[-][0-9]{7}[-][0-9]{1}" title="Цифры 0-9" minlength="7"
+                                            <input type="tel" pattern="[0-9]{10}" maxlength="10" title="Цифры 0-9" minlength="7"
                                                 class="form-control js-phone" id="phone" name="phone_number"
                                                 placeholder="Телефон" required>
                                         </div>
@@ -406,7 +402,7 @@
                             </div>
                             <div class="form_flex__field">
                                 <div class="codeWrapper">
-                                    <input class="" name="text" type="tel" placeholder="Номер телефона" pattern="[0-9]{5}[-][0-9]{7}[-][0-9]{1}"  title="Цифры 0-9"
+                                    <input class="" name="text" type="tel" placeholder="Номер телефона" pattern="[0-9]{10}" maxlength="10"  title="Цифры 0-9"
                                         minlength="7" id="PhoneNumber_sec" name="phone_number" required>
                                 </div>
                             </div>
